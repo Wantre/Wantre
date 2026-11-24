@@ -1,37 +1,76 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Wantre, développeur généraliste. Code, apps et agents IA. Lyon, France." width="100%">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/hero-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/hero-light.svg"><img alt="Wantre, développeur généraliste. Apps, sites et agents IA. Région lyonnaise." src="assets/hero-dark.svg" width="100%"></picture>
 </p>
 
-### Bonjour, ici Wantre.
+<p align="center">
+  Je conçois des apps de bureau, des sites animés et des outils pour agents IA.<br>
+  Freelance en informatique depuis mes 16 ans, je pratique aussi le vibe coding : les agents écrivent avec moi, je garde la main sur l’architecture, le design et les tests.
+</p>
 
-Développeur généraliste basé dans la région lyonnaise. Je fais du freelance en informatique depuis mes 16 ans, et je pratique aussi le vibe coding : je conçois des logiciels avec des agents IA, en gardant la main sur l’architecture, le design et les tests.
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/terminal-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/terminal-light.svg"><img alt="Terminal animé : whoami, parcours, projets et focus actuel de Wantre." src="assets/terminal-dark.svg" width="100%"></picture>
+</p>
 
-J’aime les outils qui se voient : des interfaces soignées, des animations justes, et une expérience qui donne envie de s’en servir.
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><img alt="" src="assets/divider-dark.svg" width="100%"></picture></p>
 
-#### Ce que je construis
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-verriere-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-verriere-light.svg"><img alt="Verrière : studio de création de sites piloté par des agents IA, Rust et Tauri 2, serveur MCP de 47 outils. Privé, en cours." src="assets/projet-verriere-dark.svg" width="49%"></picture>
+  <a href="https://wantre.github.io/better-grokbot/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-better-grokbot-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-better-grokbot-light.svg"><img alt="Better GrokBot : copie de Grok Bot avec rail, palette Ctrl K, barre Répond et quotas en direct. Public." src="assets/projet-better-grokbot-dark.svg" width="49%"></picture></a>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-jarvis-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-jarvis-light.svg"><img alt="JarvisMCP : bot Discord et serveur MCP qui relient mes agents à mes outils. Privé." src="assets/projet-jarvis-dark.svg" width="49%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-quant-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-quant-light.svg"><img alt="Quant Lab : laboratoire d’analyse quantitative, web, API et application Android. Privé." src="assets/projet-quant-dark.svg" width="49%"></picture>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-calame-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-calame-light.svg"><img alt="Calame : démo d’application bancaire façon néobanque. Démo." src="assets/projet-calame-dark.svg" width="49%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-cinevr-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-cinevr-light.svg"><img alt="CineVr : médiathèque personnelle auto-hébergée, avec une salle de cinéma dans VRChat. Privé." src="assets/projet-cinevr-dark.svg" width="49%"></picture>
+</p>
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-psycho-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-psycho-light.svg"><img alt="Psychopédia : site de vulgarisation en psychologie. Privé." src="assets/projet-psycho-dark.svg" width="49%"></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-jeux-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-jeux-light.svg"><img alt="Jeux et mondes : prototypes Godot, Three.js et mondes VRChat sous Unity." src="assets/projet-jeux-dark.svg" width="49%"></picture>
+</p>
 
-- **Des applications de bureau** légères, en Rust avec Tauri ou en Go.
-- **Des sites et des pages de présentation** animés, rapides, accessibles au clavier.
-- **Des outils pour agents IA** : connecteurs MCP, ponts vers Claude Code, Codex, Cursor ou Gemini CLI, sans clé API quand c’est possible.
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/stack-light.svg"><img alt="Stack vérifiée dans mes projets : Python, TypeScript, JavaScript, Rust, Go, C# et .NET, C++, Java, Lua, HTML, CSS ; React, Next.js, Vite, Tailwind, Motion, Three.js, Electron, Tauri 2, Expo ; Node.js, Express, Fastify, Socket.io, SQLite, Drizzle, discord.js ; Unity, VRChat, Godot, Arduino, Raspberry Pi ; MCP, Claude, Cursor, Gemini, Ollama." src="assets/stack-dark.svg" width="100%"></picture>
+</p>
 
-#### Projets
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/orbit-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/orbit-light.svg"><img alt="Système : un studio d’agents IA qui partagent des skills et des outils MCP, reliés à Claude Code, Codex, Cursor, Gemini CLI, Grok Bot, OpenCode et Discord." src="assets/orbit-dark.svg" width="100%"></picture>
+</p>
 
-| Projet | En bref | |
-|---|---|---|
-| [**Better GrokBot**](https://github.com/Wantre/better-grokbot) | Une copie privée de Grok Bot avec un vrai châssis : rail, palette Ctrl K, barre Répond vers d’autres IA, quotas en direct. L’original n’est jamais modifié. | [Voir le site](https://wantre.github.io/better-grokbot/) |
-| **Verrière** | Un studio de bureau pour créer des sites avec des agents IA : éditeur visuel, timeline d’animation, CMS et publication. Rust et Tauri 2. | Privé, en cours |
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><img alt="" src="assets/divider-dark.svg" width="100%"></picture></p>
 
-#### Outils
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/now-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/now-light.svg"><img alt="En ce moment : Verrière 0.4, Better GrokBot, profil Wantre." src="assets/now-dark.svg" width="100%"></picture>
+</p>
 
-**Langages** · Rust, Go, TypeScript, JavaScript, HTML, CSS<br>
-**Applications** · Tauri 2, Node.js, React Native avec Expo<br>
-**Agents IA** · MCP, Claude Code, Codex, Cursor, Gemini CLI<br>
-**Design** · animation au défilement, design system, accessibilité
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/timeline-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/timeline-light.svg"><img alt="Parcours : freelance dès 16 ans, bac pro ARED, deux ans à l’École 42 Lyon, jeux et mondes VRChat, agents IA aujourd’hui." src="assets/timeline-dark.svg" width="100%"></picture>
+</p>
 
-#### Parcours
+<p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><img alt="" src="assets/divider-dark.svg" width="100%"></picture></p>
 
-Bac pro ARED (audiovisuel, domotique, électricité), puis deux ans de parcours à l’École 42 Lyon. Freelance en informatique en parallèle, depuis mes 16 ans.
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wantre/Wantre/output/stats-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wantre/Wantre/output/stats-light.svg"><img alt="Statistiques GitHub de Wantre, générées chaque jour par une GitHub Action." src="https://raw.githubusercontent.com/Wantre/Wantre/output/stats-dark.svg" width="100%"></picture>
+</p>
 
-#### Me contacter
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Wantre/Wantre/output/calendar-dark.svg"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Wantre/Wantre/output/calendar-light.svg"><img alt="Graphe de contributions de Wantre aux couleurs braise, généré chaque jour." src="https://raw.githubusercontent.com/Wantre/Wantre/output/calendar-dark.svg" width="100%"></picture>
+</p>
 
-Le plus simple : ouvrir une [issue](https://github.com/Wantre/Wantre/issues) sur ce dépôt, ou passer par un des projets ci-dessus.
+<details>
+<summary><b>Comment c’est fait</b></summary>
+<br>
+
+Aucune image n’est une capture ni un service externe : chaque visuel est un SVG écrit par un script de ce dépôt.
+
+- `scripts/build_assets.py` dessine les cartes, le terminal, l’orbite et la frise. Le texte est vectorisé à partir de polices libres (Bricolage Grotesque, Geist, Geist Mono), puis réutilisé glyphe par glyphe. Les animations sont en SMIL, sans JavaScript, et chaque visuel existe en version sombre et claire.
+- `scripts/stats.py` interroge l’API GraphQL de GitHub et écrit les statistiques et le calendrier. L’action `.github/workflows/widgets.yml` le lance chaque jour et publie le résultat sur la branche `output`.
+- Les logos viennent de [Simple Icons](https://simpleicons.org) (CC0). Les marques appartiennent à leurs propriétaires.
+- Le mot WANTRE dans le graphe de contributions est un dessin : voir [contributions-art](https://github.com/Wantre/contributions-art).
+
+</details>
+
+<p align="center">
+  <sub>Pour me joindre : une <a href="https://github.com/Wantre/Wantre/issues">issue</a> sur ce dépôt. · Site : <a href="https://wantre.github.io/better-grokbot/">Better GrokBot</a></sub>
+</p>
