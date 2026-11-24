@@ -23,7 +23,7 @@
 </p>
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-calame-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-calame-light.svg"><img alt="Calame : démo d’application bancaire façon néobanque. Démo." src="assets/projet-calame-dark.svg" width="49%"></picture>
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-cinevr-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-cinevr-light.svg"><img alt="CineVr : médiathèque personnelle auto-hébergée, avec une salle de cinéma dans VRChat. Privé." src="assets/projet-cinevr-dark.svg" width="49%"></picture>
+  <a href="https://wantre.github.io/cinevr/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-cinevr-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-cinevr-light.svg"><img alt="CineVR : médiathèque personnelle auto-hébergée, avec une salle de cinéma dans VRChat. Voir la vitrine." src="assets/projet-cinevr-dark.svg" width="49%"></picture></a>
 </p>
 <p align="center">
   <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-psycho-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-psycho-light.svg"><img alt="Psychopédia : site de vulgarisation en psychologie. Privé." src="assets/projet-psycho-dark.svg" width="49%"></picture>

@@ -124,7 +124,7 @@ PROJECTS = [
  ('jarvis', 'bot · MCP', 'JarvisMCP', 'Bot Discord et serveur MCP qui relient mes agents à mes outils et à mes machines.', ['Python', 'Discord', 'MCP'], 'privé'),
  ('quant', 'web · backend · mobile', 'Quant Lab', 'Laboratoire d’analyse quantitative : interface web, API et application Android.', ['Web', 'API', 'Expo'], 'privé'),
  ('calame', 'démo · interface', 'Calame', 'Démo d’application bancaire façon néobanque : cartes réalistes, code de sécurité, transitions soignées.', ['Web', 'Animation'], 'démo'),
- ('cinevr', 'auto-hébergé', 'CineVr', 'Médiathèque personnelle hébergée sur mon serveur, avec une salle de cinéma dans VRChat.', ['Unity', 'UdonSharp', 'Node.js'], 'privé'),
+ ('cinevr', 'auto-hébergé · vitrine', 'CineVR', 'Médiathèque personnelle hébergée sur mon serveur, avec une salle de cinéma dans VRChat.', ['Python', 'Unity', 'UdonSharp'], 'voir →'),
  ('psycho', 'site · contenu', 'Psychopédia', 'Site de vulgarisation en psychologie : articles clairs, navigation par thèmes.', ['Web', 'Contenu'], 'privé'),
  ('jeux', 'jeux · 3D', 'Jeux et mondes', 'Prototypes de jeux et de mondes : Godot, Three.js dans Electron, mondes et avatars VRChat sous Unity.', ['Godot', 'Three.js', 'Unity'], 'labo'),
 ]
