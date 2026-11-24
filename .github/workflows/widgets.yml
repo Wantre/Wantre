@@ -1,0 +1,42 @@
+name: Widgets du profil
+
+on:
+  schedule:
+    - cron: "0 5 * * *"   # chaque jour vers 6 h (heure de Paris en hiver)
+  workflow_dispatch:
+  push:
+    branches: [main]
+    paths:
+      - "scripts/stats.py"
+      - "scripts/wsvg.py"
+      - ".github/workflows/widgets.yml"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: widgets
+  cancel-in-progress: true
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Générer les statistiques et le calendrier
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/stats.py --user "${{ github.repository_owner }}" --out dist
+
+      - name: Publier sur la branche output
+        uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: output
+          build_dir: dist
+          keep_history: false
+          jekyll: false
+          commit_message: "Widgets du profil"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
