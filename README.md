@@ -14,7 +14,7 @@
 <p align="center"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/divider-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/divider-light.svg"><img alt="" src="assets/divider-dark.svg" width="100%"></picture></p>
 
 <p align="center">
-  <picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-verriere-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-verriere-light.svg"><img alt="Verrière : studio de création de sites piloté par des agents IA, Rust et Tauri 2, serveur MCP de 47 outils. Privé, en cours." src="assets/projet-verriere-dark.svg" width="49%"></picture>
+  <a href="https://wantre.github.io/verriere/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-verriere-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-verriere-light.svg"><img alt="Verrière : créez des sites avec des agents IA, éditeur visuel, timeline d’animation, chat d’agents, serveur MCP de 47 outils. Public, gratuit pour Windows : voir le site." src="assets/projet-verriere-dark.svg" width="49%"></picture></a>
   <a href="https://wantre.github.io/better-grokbot/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/projet-better-grokbot-dark.svg"><source media="(prefers-color-scheme: light)" srcset="assets/projet-better-grokbot-light.svg"><img alt="Better GrokBot : copie de Grok Bot avec rail, palette Ctrl K, barre Répond et quotas en direct. Public." src="assets/projet-better-grokbot-dark.svg" width="49%"></picture></a>
 </p>
 <p align="center">
@@ -72,5 +72,5 @@ Aucune image n’est une capture ni un service externe : chaque visuel est un SV
 </details>
 
 <p align="center">
-  <sub>Pour me joindre : une <a href="https://github.com/Wantre/Wantre/issues">issue</a> sur ce dépôt. · Site : <a href="https://wantre.github.io/better-grokbot/">Better GrokBot</a></sub>
+  <sub>Pour me joindre : une <a href="https://github.com/Wantre/Wantre/issues">issue</a> sur ce dépôt. · Sites : <a href="https://wantre.github.io/verriere/">Verrière</a> · <a href="https://wantre.github.io/better-grokbot/">Better GrokBot</a></sub>
 </p>

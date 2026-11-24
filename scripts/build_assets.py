@@ -119,7 +119,7 @@ def stack(theme):
 
 # ------------------------------------------------------------------ PROJETS
 PROJECTS = [
- ('verriere', 'app de bureau · privé', 'Verrière', 'Studio de création de sites piloté par des agents IA : éditeur visuel, timeline d’animation, CMS et serveur MCP de 47 outils.', ['Rust', 'Tauri 2', 'MCP'], 'en cours'),
+ ('verriere', 'app de bureau · public', 'Verrière', 'Créez des sites avec des agents IA : éditeur visuel, timeline d’animation, chat d’agents et serveur MCP de 47 outils. Gratuit, Windows.', ['Rust', 'Tauri 2', 'MCP'], 'voir →'),
  ('better-grokbot', 'outil · public', 'Better GrokBot', 'Une copie de Grok Bot avec un vrai châssis : rail, palette Ctrl K, barre Répond vers d’autres IA, quotas en direct.', ['C#', 'Node.js', 'Electron'], 'voir →'),
  ('jarvis', 'bot · MCP', 'JarvisMCP', 'Bot Discord et serveur MCP qui relient mes agents à mes outils et à mes machines.', ['Python', 'Discord', 'MCP'], 'privé'),
  ('quant', 'web · backend · mobile', 'Quant Lab', 'Laboratoire d’analyse quantitative : interface web, API et application Android.', ['Web', 'API', 'Expo'], 'privé'),
